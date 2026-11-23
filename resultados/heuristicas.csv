@@ -1,0 +1,6 @@
+heuristica,h_origen,expandidos,generados,costo_etx,tiempo_ms,b_efectivo
+h = 0 (UCS),0.0,28,166,18.04,0.1188,1.222
+h1 = d/R · ETXmin,5.85,23,130,18.04,0.105,1.184
+h2 = techo(d/R) · ETXmin,6.42,22,121,18.04,0.1023,1.175
+h3 = d / rho_max,11.15,18,103,18.04,0.0839,1.136
+"h = max(h2, h3)",11.15,18,103,18.04,0.0953,1.136

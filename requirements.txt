@@ -1,0 +1,3 @@
+# El núcleo (mesh_routing, fase3, pruebas y benchmark) usa solo la biblioteca estándar de Python 3.10+.
+# matplotlib solo es necesario para generar la figura (experimentos/figura_rutas.py).
+matplotlib>=3.7
